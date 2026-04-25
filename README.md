@@ -1,10 +1,10 @@
-# Zero-Shot Traffic Flow Prediction with Large Language Models: A Comparison with Deep Learning Approaches
+# Zero-Shot Traffic Flow Prediction with Foundation Models: A Comparison with Deep Learning Approaches
 
 ### Authors: Yue Li, Qunshan Zhao, Mingshu Wang
 
 ## Introduction
 
-This github repo deposits the data statement and code we used for our research paper **Zero-Shot Traffic Flow Prediction with Large Language Models: A Comparison with Deep Learning Approaches**. 
+This github repo deposits the data statement and code we used for our research paper **Zero-Shot Traffic Flow Prediction with Foundation Models: A Comparison with Deep Learning Approaches**. 
 
 ## Realted resources
 
